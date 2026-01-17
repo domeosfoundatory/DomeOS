@@ -1,11 +1,13 @@
 # DomeOS
-Tuffest fucking OS in world
+An God's will Operating Systme...
 
 Hello, this is guide how to install OS.
 
 There is only ISO version for now.
 
 when you install ISO into virtual machine give it at least 5gb space
+
+delete floppy disk from loading and make CD disk be first in loading queue
 
 thats all, for commands type 'help'
 
@@ -16,3 +18,5 @@ OS PASSWORDS:
  login: root psswd: 1488
  
  login: guest psswd: 0000
+
+if fail to login 3 times system will burn ISO file forever.
