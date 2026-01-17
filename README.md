@@ -12,8 +12,6 @@ delete floppy disk from loading and make CD disk be first in loading queue
 thats all, for commands type 'help'
 
 OS PASSWORDS: 
-
- login: petlura psswd: petluraking123456
  
  login: root psswd: 1488
  
